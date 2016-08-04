@@ -1,18 +1,31 @@
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
 
-# Site settings
+url: http://isorsa.com
 title: Isorsa
 email: kim@isorsa.com
-description: "Software consulting"
-# Write an awesome description for your new site here. You can edit this
-# line in _config.yml. It will appear in your document head meta (for
-# Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://isorsa.com" # the base hostname & protocol for your site
-twitter_username: isorsa
-github_username:  isorsa
+author: Isorsa
+description: 'Software consulting'
+copyright: 'Copyright &copy; 2016 Isorsa. All Rights Reserved.'
+credits: 'Credits: <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
 
 # Build settings
 markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/
+  - title: github
+    url: https://github.com/isorsa
+  - title: linkedin
+    url: https://www.linkedin.com/in/sergey-kim-2195183
