@@ -3,12 +3,12 @@
 # ----------------------- #
 
 url: http://isorsa.com
-title: Isorsa
+title: ISORSA
 email: kim@isorsa.com
 author: Isorsa
 description: 'Software consulting'
 copyright: 'Copyright &copy; 2016 Isorsa. All Rights Reserved.'
-credits: 'Credits: <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+credits: #'Credits: <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
