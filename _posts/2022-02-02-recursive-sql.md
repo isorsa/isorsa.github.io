@@ -1,5 +1,5 @@
 layout: post
-title: "recursive sql"
+title: "recursivesql"
 date: 2022-02-02 14:15:16 -0000
 categories: sql recursive
 
