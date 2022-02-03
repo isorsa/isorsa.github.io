@@ -1,7 +1,9 @@
+---
 layout: post
-title: "recursivesql"
+title: recursive sql
 date: 2022-02-02 14:15:16 -0000
 categories: sql recursive
+---
 
 sql = <<-SQL
   WITH RECURSIVE story_comments AS (
