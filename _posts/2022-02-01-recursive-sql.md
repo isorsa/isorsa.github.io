@@ -1,6 +1,7 @@
 ---
 title: Recursively count all nodes in the polymorphic adjacency tree
-date: 2022-02-01 12:13:14
+published_at: 2022-02-01 12:13:14
+updated_at: 2022-02-02 12:13:14
 ---
 
 <p>There are several ways to count nodes in the adjacency tree (parent-child model). In our example, polymorphic means that parent node could be a story or a comment. A story could have many comments and a comment can have many comments.</p>
