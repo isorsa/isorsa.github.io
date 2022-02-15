@@ -1,15 +1,14 @@
 ---
-title: Bash aliases
+title: ZSH aliases
 published_at: 2021-06-15 12:13:14
 updated_at: 2021-06-15 12:13:14
 ---
 
 <pre>
-# BASH configurations and aliases
+# ZSH configurations and aliases
 
 # Change Prompt
-export PS1="________________________________________________________________________________\n| \w \n| => "
-export PS2="| => "
+PROMPT='%F{blue}%n%f:~$'
 
 export EDITOR=/usr/bin/nano
 
